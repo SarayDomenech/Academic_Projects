@@ -8,8 +8,8 @@ Subject: SQL, taught by Professor Juan Fernando.
 
 Files:
 
-• Data: ‘Orders.csv’, ‘Refunds.csv’, and ‘Merchants.csv’. Documents of own work by Professor Juan Fernando.
+• Data: ‘**Orders.csv**’, ‘**Refunds.csv**’, and ‘**Merchants.csv**’. Documents of own work by Professor Juan Fernando.
 
-• SQL_Activity_UCM.sql: SQL document containing the queries for the exercises.
+• **SQL_Activity_UCM.sql**: SQL document containing the queries for the exercises.
 
-• SQL_Avtivity_UCM.pdf: PDF report including the query requirements, the queries, and the results.
+• **SQL_Avtivity_UCM.pdf**: PDF report including the query requirements, the queries, and the results.
