@@ -1,6 +1,6 @@
 <h2 align="center"><b>Academic Project – Tableau</b></h2>
 
-Academic practice carried out as a study assignment for the Master's in Data Science, Big Data & Business Analytics (2023-2024) at Universidad Complutense de Madrid in collaboration with Ntic Máster.
+Academic practice carried out as a study assignment for the Master's in Data Science, Big Data & Business Analytics (2023-2024) at Universidad Complutense de Madrid in collaboration with Ntic Master.
 
 Business Intelligence with Tableau course taught by Professor Juan Fernando.
 
