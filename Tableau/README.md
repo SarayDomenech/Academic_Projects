@@ -1,4 +1,13 @@
-<h2 align="center"><b>Academic Project – Tableau</b></h2>
+<h2 align="center"><b>Proyecto Académico – Tableau (ESP)</b></h2>
+
+Práctica académica realizada como tarea de estudio para el Máster en Data Science, Big Data & Business Analytics (2023-2024) en la Universidad Complutense de Madrid, en colaboración con Ntic Máster.
+
+Curso de Business Intelligence con Tableau impartido por el Profesor Juan Fernando.
+
+**El ejercicio consiste en crear dos dashboards interactivos a partir de los datos ‘Operaciones_financiacion_compras_2015.xlsx’, proporcionado en el curso de BI con Tableau, siguiendo las instrucciones y requisitos solicitados.**
+
+
+<h2 align="center"><b>Academic Project – Tableau (ENG) </b></h2>
 
 Academic practice carried out as a study assignment for the Master's in Data Science, Big Data & Business Analytics (2023-2024) at Universidad Complutense de Madrid in collaboration with Ntic Master.
 
