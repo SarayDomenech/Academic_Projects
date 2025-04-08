@@ -1,5 +1,10 @@
+<h2 align="center"><b>Proyectos Académicos (ESP)</b></h2>
 
-<h2 align="center"><b>Academic Projects</b></h2>
+Este repositorio contiene seis carpetas que pertenecen a algunas de las asignaturas que cursé en el Máster en Data Science, Big Data & Business Analytics (2023-2024) en la Universidad Complutense de Madrid, en colaboración con Ntic Máster.
+
+Cada carpeta incluye diferentes archivos que forman los diversos proyectos académicos.
+
+<h2 align="center"><b>Academic Projects (ENG)</b></h2>
 
 This repository contains six folders that belong to some of the subjects I took in the Master's in Data Science, Big Data & Business Analytics (2023-2024) at Universidad Complutense de Madrid in collaboration with Ntic Máster.
 
